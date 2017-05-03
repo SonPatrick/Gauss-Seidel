@@ -1,14 +1,14 @@
 
 #Example
 
-#Input format:
+-->>#Input format:
 
 Enter the square Matrix [3*4] :  
 5 -1 0 9
 -1 5 -1 4
 0 -1 5 -6
 
-#Output format:
+-->>#Output format:
 
 Initialy: 
 
