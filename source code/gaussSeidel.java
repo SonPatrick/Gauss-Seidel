@@ -52,7 +52,7 @@ public class gaussSeidel
 		double[][] quin = new double[3][4];
 		double[] inter = new double[3];
 
-		Scanner sin = new Scanner(System.in);			// New Scanner object 'sin'
+		Scanner sin = new Scanner(System.in);			                               // New Scanner object 'sin'
 
 		inter[0] = 0;
 		inter[1] = 0;
@@ -60,15 +60,15 @@ public class gaussSeidel
 
 		System.out.println("Enter the square Matrix [3*4] :  ");
 
-		for(int i = 0; i < 3; i++)						// Input a [3*4] matrix
+		for(int i = 0; i < 3; i++)						              // Input a [3*4] matrix
 			for(int j = 0; j < 4; j++)
 				quin[i][j] = sin.nextDouble();
 
 
-		System.out.println("\n\n\nInitialy: ");			//Initial [XYZ]
+		System.out.println("\n\n\nInitialy: ");			                              // Initial [XYZ]
 		System.out.println("\n[    x = "+inter[0]+",    y = "+inter[1]+",    z = "+inter[2]+"    ]");
 
-		while(1 != 0)									// Main Computation area
+		while(1 != 0)									      // Main Computation area
 		{
 			c = 0;
 
