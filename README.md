@@ -6,4 +6,4 @@ In numerical linear algebra, the Gauss–Seidel method, also known as the Liebma
 This Java Program provides a simple linear equation solver using Gauss-Seidel iterative method for 3 variable Linear Systems. 
 
 
-##The source code is well commented. :)
+#The source code is well commented. :)
