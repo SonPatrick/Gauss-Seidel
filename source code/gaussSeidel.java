@@ -99,8 +99,9 @@ public class gaussSeidel
 			System.out.println("\n\n\nStatus After "+count+" iteration:  ");
 			System.out.println("\n[    x = "+inter[0]+",    y = "+inter[1]+",    z = "+inter[2]+"    ]");
 			
-
 		}
+		
+		
 		System.out.println("\n\n\n\n**************************************************");	//Final Stats
 		System.out.println("Final Stats: \n");
 		System.out.println("Computation completed in "+count+" iterations");
