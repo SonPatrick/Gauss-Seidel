@@ -1,31 +1,24 @@
 
 
 /*
-
 Author Name:  	Tony Josi
 Email ID:       tonyjosinew@gmail.com
 GitHub:         https://github.com/TonyJosi97 
 Date:	        4 May 2017
-
 */
 
 
 /*
-
 *********************************************************************************************
-
 #	Copyright (c) 2017 Tony Josi
-
 #	Permission is hereby granted, free of charge, to any person obtaining
 #   a copy of this software and associated documentation files (the "Software"), 
 #   to deal in the Software without restriction, including without limitation 
 #   the rights to use, copy, modify, merge, publish, distribute, sublicense, 
 #   and/or sell copies of the Software,and to permit persons to whom the Software
 #   is furnished to do so, subject to the following conditions:
-
 #	The above copyright notice and this permission notice shall be included in 
 #   all copies or substantial portions of the Software.
-
 #	THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
 #   IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, 
 #   FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL 
@@ -33,11 +26,8 @@ Date:	        4 May 2017
 #   LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 #   OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE 
 #   SOFTWARE.
-
 #   Massachusetts Institute of Technology, Cambridge, Massachusetts, United States of America.
-
 ***********************************************************************************************
-
 */
 
 
@@ -48,6 +38,7 @@ public class gaussSeidel
 {
 	public static void main(String[] args) 
 	{
+		long startTime = System.currentTimeMillis();
 		double d,e;										// Data type declarations
 		int c,count = 0;
 		double[][] quin = new double[3][4];
@@ -107,6 +98,9 @@ public class gaussSeidel
 		System.out.println("Computation completed in "+count+" iterations");
 		System.out.println("Final Answer: ");
 		System.out.println("[    x = "+inter[0]+",    y = "+inter[1]+",    z = "+inter[2]+"    ]");
+		long endTime   = System.currentTimeMillis();
+		long totalTime = endTime - startTime;
+		System.out.println("Executed in: "+totalTime);
 		System.out.println("**************************************************");
 	}
 }
