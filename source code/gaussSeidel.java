@@ -1,16 +1,16 @@
 
 
 /*
-Author Name:  	Tony Josi
-Email ID:       tonyjosinew@gmail.com
-GitHub:         https://github.com/TonyJosi97 
-Date:	        4 May 2017
+Author Name:  		Tony Josi
+Email ID:       	tonyjosinew@gmail.com
+GitHub:         	https://github.com/TonyJosi97 
+Latest Update Date:	16 May 2017
 */
 
 
 /*
 *********************************************************************************************
-#	Copyright (c) 2017 Tony Josi
+#	Copyright (c) 2017 Tony Josi --- 4 may 2017
 #	Permission is hereby granted, free of charge, to any person obtaining
 #   a copy of this software and associated documentation files (the "Software"), 
 #   to deal in the Software without restriction, including without limitation 
