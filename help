@@ -1,14 +1,14 @@
 
-#Example
+Example:
 
--->>#Input format:
-
-Enter the square Matrix [3*4] :  
+Enter the number of digits needed in Mantissa(1-5):
+3
+Enter the square Matrix [3*4] in diagonally dominant form:  
 5 -1 0 9
 -1 5 -1 4
 0 -1 5 -6
 
--->>#Output format:
+
 
 Initialy: 
 
@@ -51,6 +51,9 @@ Status After 5 iteration:
 Final Stats: 
 
 Computation completed in 5 iterations
+Numbers are rounded to 3 decimal places
 Final Answer: 
 [    x = 2.0,    y = 1.0,    z = -1.0    ]
+Total Execution time: 12612ms
+Total Computation time: 5ms
 **************************************************
