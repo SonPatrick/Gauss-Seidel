@@ -3,8 +3,8 @@
  
 # The Input matrix must be Diagonally Dominant
  
-# USAGE: 
-    compile from source code: javac gaussSeidel.java
+# USAGE: Compile from source code: 
+    javac gaussSeidel.java
 # Running:
     java gaussSeidel
 
