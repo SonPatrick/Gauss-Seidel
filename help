@@ -1,4 +1,9 @@
 
+Input Format:
+    For Eqn.:      ax + by + cz = d
+    Input Form:    a    b    c    d
+
+
 Example:
 
 Enter the number of digits needed in Mantissa(1-5):
