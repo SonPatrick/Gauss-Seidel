@@ -7,6 +7,9 @@
     javac gaussSeidel.java
 # Running:
     java gaussSeidel
+# Input Format:
+    For Eqn.:      ax + by + cz = d
+    Input Form:    a    b    c    d
 
 # In Development Phase.
  
