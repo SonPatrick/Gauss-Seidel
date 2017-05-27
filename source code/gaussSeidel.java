@@ -118,7 +118,7 @@ public class gaussSeidel
 
 			count++;
 
-			System.out.println("\n\n\nStatus After "+count+" iteration:  ");
+			System.out.println("\n\n\nStatus After "+count+" iteration:  ");            // Displays status after each Iteration.
 			System.out.println("\n[    x = "+inter[0]+",    y = "+inter[1]+",    z = "+inter[2]+"    ]");
 
 			if (count == 25)
