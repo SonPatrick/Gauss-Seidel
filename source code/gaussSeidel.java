@@ -10,7 +10,9 @@ Latest Update Date:	16 May 2017
 
 /*
 *********************************************************************************************
-#	Copyright (c) 2017 Tony Josi --- 4 may 2017
+#
+#                   Copyright (c) 2017 Tony Josi --- 4 may 2017
+#	
 #	Permission is hereby granted, free of charge, to any person obtaining
 #   a copy of this software and associated documentation files (the "Software"), 
 #   to deal in the Software without restriction, including without limitation 
@@ -26,6 +28,7 @@ Latest Update Date:	16 May 2017
 #   LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 #   OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE 
 #   SOFTWARE.
+#   
 #   Massachusetts Institute of Technology, Cambridge, Massachusetts, United States of America.
 ***********************************************************************************************
 */
